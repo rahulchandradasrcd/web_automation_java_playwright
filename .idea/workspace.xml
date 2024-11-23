@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a0c57e5-c1ca-4e25-bc5b-f8b7a6af46c3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2pFzuv5YIEvQviYIbwQlzrFs7UC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.BrowserInit (1).executor": "Run",
+    "TestNG.BrowserInit.executor": "Run",
+    "TestNG.ChromeBrowserInitHeadLessTrue.executor": "Run",
+    "TestNG.EdgeBrowserInitHeadLessFalse.executor": "Run",
+    "TestNG.EdgeBrowserInitHeadLessTrue.executor": "Run",
+    "TestNG.FirefoxBrowserInitHeadLessFalse.executor": "Run",
+    "TestNG.FirefoxBrowserInitHeadLessTrue.OpenUrl.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Rahul Personal/Web Automation/PlayWright/PlayWriteBasic"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.EdgeBrowserInitHeadLessTrue">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PlayWrightBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PlayWrightBasic" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ChromeBrowserInit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ChromeBrowserInit" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChromeBrowserInitHeadLessTrue" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ChromeBrowserInitHeadLessTrue" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EdgeBrowserInitHeadLessFalse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.EdgeBrowserInitHeadLessFalse" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EdgeBrowserInitHeadLessTrue" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.EdgeBrowserInitHeadLessTrue" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirefoxBrowserInitHeadLessFalse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.FirefoxBrowserInitHeadLessFalse" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirefoxBrowserInitHeadLessTrue.OpenUrl" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlayWrightBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.FirefoxBrowserInitHeadLessTrue" />
+      <option name="METHOD_NAME" value="OpenUrl" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.EdgeBrowserInitHeadLessTrue" />
+        <item itemvalue="TestNG.EdgeBrowserInitHeadLessFalse" />
+        <item itemvalue="TestNG.FirefoxBrowserInitHeadLessTrue.OpenUrl" />
+        <item itemvalue="TestNG.FirefoxBrowserInitHeadLessFalse" />
+        <item itemvalue="TestNG.ChromeBrowserInitHeadLessTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0c57e5-c1ca-4e25-bc5b-f8b7a6af46c3" name="Changes" comment="" />
+      <created>1732376841457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732376841457</updated>
+    </task>
+    <servers />
+  </component>
+</project>
